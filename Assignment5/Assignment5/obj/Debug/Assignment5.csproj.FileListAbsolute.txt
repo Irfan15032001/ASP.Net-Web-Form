@@ -1,0 +1,40 @@
+D:\Irfan Shaikh\.Net\C#.Net\Exam\Assignment5\Assignment5\obj\Debug\Assignment5.csprojResolveAssemblyReference.cache
+D:\Irfan Shaikh\.Net\C#.Net\Exam\Assignment5\Assignment5\bin\roslyn\csc.exe
+D:\Irfan Shaikh\.Net\C#.Net\Exam\Assignment5\Assignment5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Irfan Shaikh\.Net\C#.Net\Exam\Assignment5\Assignment5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Irfan Shaikh\.Net\C#.Net\Exam\Assignment5\Assignment5\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Irfan Shaikh\.Net\C#.Net\Exam\Assignment5\Assignment5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Irfan Shaikh\.Net\C#.Net\Exam\Assignment5\Assignment5\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Irfan Shaikh\.Net\C#.Net\Exam\Assignment5\Assignment5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Irfan Shaikh\.Net\C#.Net\Exam\Assignment5\Assignment5\bin\roslyn\System.Collections.Immutable.dll
+D:\Irfan Shaikh\.Net\C#.Net\Exam\Assignment5\Assignment5\bin\roslyn\System.Reflection.Metadata.dll
+D:\Irfan Shaikh\.Net\C#.Net\Exam\Assignment5\Assignment5\bin\roslyn\vbc.exe
+D:\Irfan Shaikh\.Net\C#.Net\Exam\Assignment5\Assignment5\bin\roslyn\VBCSCompiler.exe
+D:\Irfan Shaikh\.Net\C#.Net\Exam\Assignment5\Assignment5\bin\roslyn\VBCSCompiler.exe.config
+D:\Irfan Shaikh\.Net\C#.Net\Exam\Assignment5\Assignment5\bin\Assignment5.dll.config
+D:\Irfan Shaikh\.Net\C#.Net\Exam\Assignment5\Assignment5\bin\Assignment5.dll
+D:\Irfan Shaikh\.Net\C#.Net\Exam\Assignment5\Assignment5\bin\Assignment5.pdb
+D:\Irfan Shaikh\.Net\C#.Net\Exam\Assignment5\Assignment5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Irfan Shaikh\.Net\C#.Net\Exam\Assignment5\Assignment5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Irfan Shaikh\.Net\C#.Net\Exam\Assignment5\Assignment5\obj\Debug\Assignment5.dll
+D:\Irfan Shaikh\.Net\C#.Net\Exam\Assignment5\Assignment5\obj\Debug\Assignment5.pdb
+D:\Irfan_Shaikh\.Net\C#.Net\Exam\Assignment5\Assignment5\bin\roslyn\csc.exe
+D:\Irfan_Shaikh\.Net\C#.Net\Exam\Assignment5\Assignment5\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Irfan_Shaikh\.Net\C#.Net\Exam\Assignment5\Assignment5\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Irfan_Shaikh\.Net\C#.Net\Exam\Assignment5\Assignment5\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Irfan_Shaikh\.Net\C#.Net\Exam\Assignment5\Assignment5\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Irfan_Shaikh\.Net\C#.Net\Exam\Assignment5\Assignment5\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Irfan_Shaikh\.Net\C#.Net\Exam\Assignment5\Assignment5\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Irfan_Shaikh\.Net\C#.Net\Exam\Assignment5\Assignment5\bin\roslyn\System.Collections.Immutable.dll
+D:\Irfan_Shaikh\.Net\C#.Net\Exam\Assignment5\Assignment5\bin\roslyn\System.Reflection.Metadata.dll
+D:\Irfan_Shaikh\.Net\C#.Net\Exam\Assignment5\Assignment5\bin\roslyn\vbc.exe
+D:\Irfan_Shaikh\.Net\C#.Net\Exam\Assignment5\Assignment5\bin\roslyn\VBCSCompiler.exe
+D:\Irfan_Shaikh\.Net\C#.Net\Exam\Assignment5\Assignment5\bin\roslyn\VBCSCompiler.exe.config
+D:\Irfan_Shaikh\.Net\C#.Net\Exam\Assignment5\Assignment5\bin\Assignment5.dll.config
+D:\Irfan_Shaikh\.Net\C#.Net\Exam\Assignment5\Assignment5\bin\Assignment5.dll
+D:\Irfan_Shaikh\.Net\C#.Net\Exam\Assignment5\Assignment5\bin\Assignment5.pdb
+D:\Irfan_Shaikh\.Net\C#.Net\Exam\Assignment5\Assignment5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Irfan_Shaikh\.Net\C#.Net\Exam\Assignment5\Assignment5\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Irfan_Shaikh\.Net\C#.Net\Exam\Assignment5\Assignment5\obj\Debug\Assignment5.csprojResolveAssemblyReference.cache
+D:\Irfan_Shaikh\.Net\C#.Net\Exam\Assignment5\Assignment5\obj\Debug\Assignment5.dll
+D:\Irfan_Shaikh\.Net\C#.Net\Exam\Assignment5\Assignment5\obj\Debug\Assignment5.pdb
